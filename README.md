@@ -1,4 +1,6 @@
-Graffiti and street art preservation
+Graffiti, street art, and anything in-between. 
+
+Preservation and curation initiatives, references, and other data.
 
 # References
 
