@@ -35,6 +35,7 @@ Websites hosting a curated selection of graffities, usually owned by communities
 
 - https://www.graffiti.org/
 - https://www.graffiti-database.com/
+- https://streetartcities.com/
 
 ## Institutional datasets
 These are datasets created by governments or institutions, usually with the purpose of law enforcement and monitoring graffiti in cities.
@@ -55,6 +56,9 @@ York (UK):
 San Francisco (USA):
   - Graffiti reports/complains https://data.sfgov.org/City-Infrastructure/Graffiti/vg6y-3pcr/about_data
   - https://www.sciencedirect.com/science/article/pii/S0143622814001490
+
+Brussels (Belgium):
+  - https://opendata.brussels.be/explore/dataset/streetart/information/
 
 ## Other tools
 
