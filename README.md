@@ -36,8 +36,8 @@ Graffiti classification Google Street Views API (799 graffiti images, 19,000 non
 Websites hosting a curated selection of graffities, usually owned by communities or group of individuals.
 
 - https://www.graffiti.org/
-- https://www.graffiti-database.com/
-- https://streetartcities.com/
+- https://www.graffiti-database.com/ (21,000 images)
+- https://streetartcities.com/ (30,000 or more images?) [citation needed]
 
 ## Institutional datasets
 These are datasets created by governments or institutions, usually with the purpose of law enforcement and monitoring graffiti in cities.
