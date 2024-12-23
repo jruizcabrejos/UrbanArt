@@ -63,3 +63,7 @@ Brussels (Belgium):
 ## Other tools
 
 Graffiti dataset tools: https://github.com/pavelkraleu/graffiti-dataset
+Tag conference: https://thetagconference.com/about/
+Cañada college database compilation: https://guides.canadacollege.edu/murals/databases
+Arts and Culture Google?: https://artsandculture.google.com/nearby
+Covid street art: https://www.urbanartmapping.org/covid-19-database
